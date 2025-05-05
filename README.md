@@ -20,6 +20,11 @@ source fast-venv/bin/activate
 - Windows
 source fast-venv\Scripts\activate
 
+# Clone Repo
+
+git clone https://github.com/pankajit/FastAPI-Cohort.git
+
+
 #Part 1 - Basic Setup  - Hello World with SQLite
 
     - Step 1 - Install Require Packages
@@ -42,17 +47,33 @@ source fast-venv\Scripts\activate
 
 #Part 2 - Database Setup with SQLAlchemy 
 
+-- check database.py 
+
 
 #Part 3 - Define Models and Schemas
 
+    - completed 
 
 #Part 4 - Create CRUD Operations
-
+    - completed
 
 #Part 5  - Create Fast API Endpoints 
+    - completed
 
 
 #Part 6 - Run the Application
+
+    - completed 
+
+
+
+
+# API METHOD HTTP:
+
+    GET -   Listing a data 
+    POST -   Post the data via HTTP  
+    PUT -  UPDATE 
+    DELETE -  DELETE
 
 
 #Part 7 - Advanced Features
